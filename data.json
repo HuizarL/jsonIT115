@@ -1,0 +1,15 @@
+{
+    "name": "Luis Huizar",
+    "age": 21,
+    "city": "Tacoma, WA",
+    "interests": [
+        "Soccer",
+        "Giveon",
+        "Sweets",
+        "Games",
+        "Music",
+        "Arsenal",
+        "Secret Hobby"
+    ],
+    "is_student": true
+}
